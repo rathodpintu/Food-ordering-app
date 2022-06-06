@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "958041010464",
+    "project_id": "myfirebase-92bf8",
+    "storage_bucket": "myfirebase-92bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958041010464:android:716b8f591338fbfdece745",
+        "android_client_info": {
+          "package_name": "com.example.dayri_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958041010464-6ecrl7uqc0gj5s54pg4b2prdmur7fmag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqHYokCIrTSdWluzsBG3YqFLluqtt2Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958041010464-6ecrl7uqc0gj5s54pg4b2prdmur7fmag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958041010464-aftl09tttnrm8eh8rbmqc6b0cebt1q5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dayriApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958041010464:android:6de20a93faa282d0ece745",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958041010464-6ecrl7uqc0gj5s54pg4b2prdmur7fmag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqHYokCIrTSdWluzsBG3YqFLluqtt2Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958041010464-6ecrl7uqc0gj5s54pg4b2prdmur7fmag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958041010464-aftl09tttnrm8eh8rbmqc6b0cebt1q5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dayriApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958041010464:android:b47dfb860f1324b1ece745",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958041010464-6ecrl7uqc0gj5s54pg4b2prdmur7fmag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpqHYokCIrTSdWluzsBG3YqFLluqtt2Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958041010464-6ecrl7uqc0gj5s54pg4b2prdmur7fmag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958041010464-aftl09tttnrm8eh8rbmqc6b0cebt1q5h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dayriApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
